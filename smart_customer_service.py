@@ -6,8 +6,7 @@
 """
 
 import os
-import re
-from typing import List, Dict, Tuple
+from typing import List, Dict
 
 
 class SmartCustomerService:
